@@ -1,0 +1,90 @@
+body {
+	display: block;
+	margin: auto;
+	font-family:"HelveticaNeue-Light";
+}
+
+p {
+	text-align: center;
+	font-weight: 100;
+	margin: 120px;
+	color: BDBABA;
+}
+
+h5{
+	text-align: center;
+	margin: 0 auto;
+	font-weight: 500;
+	letter-spacing: 16px;
+	font-family:'Sorts Mill Goudy';
+}
+
+hr{
+	size: 9px;
+}
+
+#TopPic > hr{
+	size: 3px;
+}
+
+#Header {
+	text-align:center;
+	display:block;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+
+#TopPic {
+	margin: 0 auto;
+	width: 970px;
+	height: 500px;
+}
+
+.nav {
+	background-color: #ffffff;
+	color: #000000;
+	list-style: none;
+	text-align: center;
+	padding: 0px;
+	margin: 40px 0 8px 0;
+	font-weight: 100;
+}
+
+.nav > li {
+	display: inline-block;
+	padding: 0 90px;
+}
+
+.nav > li > a{
+	text-decoration: none;
+	color: #000000;	
+	font-weight: 100;
+	letter-spacing: 1.95px;
+}
+
+.centerme {
+	text-align:center;
+	display:block;
+	margin: 0 auto;
+}
+
+.centerme2 {
+	text-align:center;
+	display:block;
+	margin: 90px auto;
+}
+
+.productmarg {
+	margin: 5px 0px;
+}
+
+.prodgrid {
+	list-style: none;
+	display: inline-block;
+	height: 280px;
+	width: 315px;
+}
+
+.nomarg {
+	margin: 0 auto;
+}
